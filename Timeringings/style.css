@@ -27,12 +27,12 @@ body{
 #timings{
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 #timings input{
   width: 60px;
-  padding:0.5rem;
+  padding:1rem;
   background: #111;
   border: 1px solid #444;
   color: white;
