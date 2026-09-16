@@ -69,4 +69,8 @@ startBtn.addEventListener('click', () => {
 
 resetBtn.addEventListener('click', resetTimer);
 
+// i think i would have to use js for that, a timer that i click, then i get the option to change the time from it directly either via typing or scrolling
+// also a way to swap the buttons, make it either start button, which would sawp to a stop button when timer starts
+
+
 updateDisplay();
